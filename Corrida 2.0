@@ -4,8 +4,8 @@ function setup() {
 
 let xJogador = [0, 0, 0, 0];
 let yJogador = [75, 150, 225, 300];
-let jogador = ["😒", "😊", "🙄", "🤔"];
-let teclas = ["m", "a", "r", "i"];
+let jogador = ["😒", "😊", "🙄", "🤔"];//Representa jogadores
+let teclas = ["m", "a", "r", "i"];//Representa teclas 
 let quantidade = jogador.length;
 
 function draw() {
